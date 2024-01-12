@@ -1,0 +1,27 @@
+[
+  {
+   "id": 1,
+   "name": "Roda de Fogo",
+   "overview": "História de Renato Villar, um homem que se transforma quando se vê diante da morte. Ele é um empresário bem-sucedido e inescrupuloso, capaz de qualquer coisa por poder. Ele mantém um casamento de aparências com Carolina, uma mulher fria e ambiciosa.",
+   "year": "1986",
+   "thumbnail": "pkg:/images/roda_de_fogo.png",
+   "video": "pkg:/images/rodadefogo.mp4"
+  },
+  {
+   "id": 2,
+   "name": "Bambolê",
+   "overview": "O viúvo Álvaro Galhardo é um homem que se recusa a aceitar os valores de uma sociedade que ele julga ser hipócrita e moralista. Romântico e idealista, ele tem uma relação de amizade e um ótimo diálogo com as três filhas, Ana, Yolanda e Cristina.",
+   "year": "1987",
+   "thumbnail": "pkg:/images/bambole.webp",
+   "video": "pkg:/images/bambole.mp4" 
+  },
+  {
+    "id": 3,
+    "name": "Fuzuê",
+    "overview": "Luna é uma mulher simples e carismática, que luta para desvendar o paradeiro da mãe. Preciosa é uma poderosa empresária que procura uma fortuna escondida. As duas mulheres vão descobrir que têm mais em comum do que imaginam.",
+    "year": "2023",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Fuzu%C3%AA.jpg/640px-Fuzu%C3%AA.jpg",
+    "video": "pkg:/images/fuzue.mp4"
+  }
+]
+
